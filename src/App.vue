@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3.0 + Vite" />
+<div>第一次  哦</div>
+<div v-for="item in 10" :key="item">{{item}}</div>
 </template>
 
 <script>
