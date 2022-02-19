@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+deeploy:
+  type:git
+  repo:https://github.com/OnceCheer/once.git
+  branch:master
+  
